@@ -1,5 +1,5 @@
 import React from 'react'
-import './weather.css'
+import './Weather.css'
 import clear from '../Assets/clear.png'
 import cloud from '../Assets/cloud.png'
 import drizzle from '../Assets/drizzle.png'
